@@ -1,0 +1,273 @@
+
+Modified Poem (with 7th most likely words):
+--------------------------------------------------
+The Snow Man
+by Wallace Stevens (1879-1955)
+
+
+One must have a mind of her
+To regard the frost and the death
+Of the pine-trees crusted with oil
+And have been cold a long way
+To behold the junipers shagged with white
+The spruces rough in the distant horizon
+Of the January sun; and not to have
+Of any misery in the sound of the sound
+In the sound of a few shots
+Which is the sound of the voice
+Full of the same day
+That is blowing in the same bare air
+For the listener, who listens in the morning
+And, nothing himself, I
+Nothing that is not there and the nothing that isn'
+
+
+Original Poem:
+--------------------------------------------------
+The Snow Man
+by Wallace Stevens (1879-1955)
+
+
+One must have a mind of winter
+To regard the frost and the boughs
+Of the pine-trees crusted with snow;
+And have been cold a long time
+To behold the junipers shagged with ice,
+The spruces rough in the distant glitter
+Of the January sun; and not to think
+Of any misery in the sound of the wind,
+In the sound of a few leaves,
+Which is the sound of the land
+Full of the same wind
+That is blowing in the same bare place
+For the listener, who listens in the snow,
+And, nothing himself, beholds
+Nothing that is not there and the nothing that is.
+
+Analyzing each line's possibilities:
+================================================================================
+
+Line 1: "One must have a mind of winter"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'their' - 32.77% confidence
+2. 'its' - 13.43% confidence
+3. 'his' - 13.04% confidence
+4. 'your' - 2.48% confidence
+5. 'a' - 2.02% confidence
+6. 'our' - 1.69% confidence
+7. 'her' - 1.62% confidence
+   ^^^ This word will be used ^^^
+8. 'this' - 1.23% confidence
+9. 'my' - 1.16% confidence
+10. 'one' - 1.09% confidence
+
+Line 2: "To regard the frost and the boughs"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'cold' - 1.96% confidence
+2. 'snow' - 1.51% confidence
+3. 'frost' - 1.18% confidence
+4. 'ice' - 1.14% confidence
+5. 'fire' - 0.91% confidence
+6. 'wind' - 0.75% confidence
+7. 'death' - 0.64% confidence
+   ^^^ This word will be used ^^^
+8. 'fall' - 0.64% confidence
+9. 'heat' - 0.63% confidence
+10. 'storm' - 0.61% confidence
+
+Line 3: "Of the pine-trees crusted with snow;"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'the' - 5.27% confidence
+2. 'a' - 2.35% confidence
+3. 'pine' - 1.83% confidence
+4. 'salt' - 0.98% confidence
+5. 'blood' - 0.98% confidence
+6. 'red' - 0.92% confidence
+7. 'oil' - 0.81% confidence
+   ^^^ This word will be used ^^^
+8. 'gold' - 0.77% confidence
+9. 'black' - 0.72% confidence
+10. 'white' - 0.68% confidence
+
+Line 4: "And have been cold a long time"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'time' - 92.33% confidence
+2. 'while' - 4.42% confidence
+3. ',' - 0.73% confidence
+4. 'enough' - 0.24% confidence
+5. 'long' - 0.24% confidence
+6. 'day' - 0.20% confidence
+7. 'way' - 0.15% confidence
+   ^^^ This word will be used ^^^
+8. 'few' - 0.07% confidence
+9. 'time' - 0.06% confidence
+10. 'and' - 0.06% confidence
+
+Line 5: "To behold the junipers shagged with ice,"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'the' - 10.30% confidence
+2. 'their' - 9.06% confidence
+3. 'a' - 8.25% confidence
+4. 'blood' - 1.12% confidence
+5. 'an' - 1.06% confidence
+6. 'black' - 0.97% confidence
+7. 'white' - 0.84% confidence
+   ^^^ This word will be used ^^^
+8. 'red' - 0.83% confidence
+9. 'his' - 0.74% confidence
+10. 'tw' - 0.51% confidence
+
+Line 6: "The spruces rough in the distant glitter"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'hills' - 6.36% confidence
+2. 'past' - 5.83% confidence
+3. 'mountains' - 2.97% confidence
+4. ',' - 2.79% confidence
+5. 'sky' - 2.44% confidence
+6. 'future' - 1.98% confidence
+7. 'horizon' - 1.97% confidence
+   ^^^ This word will be used ^^^
+8. 'night' - 1.49% confidence
+9. 'woods' - 1.22% confidence
+10. 'distance' - 1.00% confidence
+
+Line 7: "Of the January sun; and not to think"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'be' - 16.31% confidence
+2. 'mention' - 8.23% confidence
+3. 'the' - 4.81% confidence
+4. 'say' - 4.69% confidence
+5. 'forget' - 2.43% confidence
+6. 'speak' - 2.17% confidence
+7. 'have' - 1.29% confidence
+   ^^^ This word will be used ^^^
+8. 'think' - 1.26% confidence
+9. 'look' - 0.97% confidence
+10. 'my' - 0.91% confidence
+
+Line 8: "Of any misery in the sound of the wind,"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'trumpet' - 2.44% confidence
+2. 'voice' - 2.19% confidence
+3. 'bell' - 1.67% confidence
+4. 'world' - 1.65% confidence
+5. 'bells' - 1.07% confidence
+6. 'wind' - 1.04% confidence
+7. 'sound' - 1.00% confidence
+   ^^^ This word will be used ^^^
+8. 'music' - 0.89% confidence
+9. 'drum' - 0.86% confidence
+10. 'earth' - 0.84% confidence
+
+Line 9: "In the sound of a few leaves,"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'words' - 3.48% confidence
+2. 'voices' - 2.31% confidence
+3. 'of' - 2.29% confidence
+4. 'gunshots' - 2.09% confidence
+5. 'feet' - 1.36% confidence
+6. 'clicks' - 1.34% confidence
+7. 'shots' - 1.25% confidence
+   ^^^ This word will be used ^^^
+8. 'more' - 1.17% confidence
+9. 'minutes' - 1.05% confidence
+10. 'loud' - 0.98% confidence
+
+Line 10: "Which is the sound of the land"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'wind' - 1.17% confidence
+2. 'car' - 1.07% confidence
+3. 'door' - 0.94% confidence
+4. 'engine' - 0.85% confidence
+5. 'water' - 0.82% confidence
+6. 'sound' - 0.75% confidence
+7. 'voice' - 0.73% confidence
+   ^^^ This word will be used ^^^
+8. 'bell' - 0.67% confidence
+9. 'drum' - 0.55% confidence
+10. 'music' - 0.55% confidence
+
+Line 11: "Full of the same wind"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. ',' - 5.23% confidence
+2. '.' - 5.07% confidence
+3. 'kind' - 1.79% confidence
+4. 'name' - 1.55% confidence
+5. 'thing' - 1.48% confidence
+6. 'type' - 1.45% confidence
+7. 'day' - 1.19% confidence
+   ^^^ This word will be used ^^^
+8. 'material' - 0.96% confidence
+9. 'story' - 0.94% confidence
+10. 'time' - 0.76% confidence
+
+Line 12: "That is blowing in the same bare place"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. '-' - 4.74% confidence
+2. 'foot' - 3.32% confidence
+3. 'feet' - 2.85% confidence
+4. 'chest' - 2.81% confidence
+5. 'hands' - 2.73% confidence
+6. ',' - 2.19% confidence
+7. 'air' - 2.17% confidence
+   ^^^ This word will be used ^^^
+8. 'shoulders' - 1.90% confidence
+9. 'footed' - 1.81% confidence
+10. 'bones' - 1.42% confidence
+
+Line 13: "For the listener, who listens in the snow,"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'background' - 16.32% confidence
+2. 'same' - 7.84% confidence
+3. 'middle' - 2.07% confidence
+4. 'first' - 1.74% confidence
+5. 'browser' - 1.58% confidence
+6. '"' - 1.17% confidence
+7. 'morning' - 0.87% confidence
+   ^^^ This word will be used ^^^
+8. 'following' - 0.74% confidence
+9. 'main' - 0.73% confidence
+10. 'studio' - 0.70% confidence
+
+Line 14: "And, nothing himself, beholds"
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'but' - 14.43% confidence
+2. 'nothing' - 6.89% confidence
+3. 'except' - 5.01% confidence
+4. 'no' - 3.25% confidence
+5. 'and' - 3.16% confidence
+6. 'he' - 2.70% confidence
+7. 'I' - 2.31% confidence
+   ^^^ This word will be used ^^^
+8. 'not' - 2.24% confidence
+9. 'or' - 2.16% confidence
+10. 'though' - 2.09% confidence
+
+Line 15: "Nothing that is not there and the nothing that is."
+----------------------------------------
+Top 10 possibilities for the last word:
+1. 'is' - 64.99% confidence
+2. 'has' - 2.63% confidence
+3. 'does' - 1.97% confidence
+4. 'was' - 1.71% confidence
+5. 'I' - 1.44% confidence
+6. 'we' - 1.43% confidence
+7. 'isn' - 1.36% confidence
+   ^^^ This word will be used ^^^
+8. ''s' - 1.30% confidence
+9. 'you' - 1.07% confidence
+10. 'comes' - 1.05% confidence
